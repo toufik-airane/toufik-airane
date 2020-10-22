@@ -4,22 +4,22 @@ People define me as an ethical hacker with software engineering and DevOps skill
 I define myself as a chaotic good engineer committed to building cybersecurity for a better society.
 My favorite playgrounds are growing tech companies investing to secure themselves.
 
-**2. More links**
-
-- Medium https://medium.com/@toufik.airane
-- LinkedIn https://www.linkedin.com/in/toufik-airane/
-
-**3. Do you wanna chat about hacking and cybersecurity?**
+**2. Do you wanna chat about hacking and cybersecurity?**
 
 Feel free to reach me for a chat - https://calendly.com/toufik-airane/one-hour-chat
 
-**4. Join the SecOpsLab feed on Telegram**
+**3. Join the SecOpsLab feed on Telegram**
 
 The cybersecurity feed for application security and incident response teams.
 We promote technical materials to step up your learning curve.
 
 👉 https://t.me/secopslab
 
-**5. Contact me**
+**4. Contact me**
 
 hello (at) chaoticgood (dot) engineer
+
+**5. More links**
+
+- Medium https://medium.com/@toufik.airane
+- LinkedIn https://www.linkedin.com/in/toufik-airane/

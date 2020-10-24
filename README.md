@@ -13,11 +13,8 @@ Feel free to reach me for a chat - https://calendly.com/toufik-airane/one-hour-c
 A cybersecurity feed for application security and incident response teams.
 We promote technical materials to step up your learning curve. 👉 https://t.me/secopslab
 
-**4. Contact me**
-
-hello (at) chaoticgood (dot) engineer
-
-**5. More links**
+**5. Keep in touch**
 
 - Medium https://medium.com/@toufik.airane
 - LinkedIn https://www.linkedin.com/in/toufik-airane/
+- hello (at) chaoticgood (dot) engineer

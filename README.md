@@ -13,9 +13,9 @@ Feel free to book me for a chat - https://calendly.com/toufik-airane/one-hour-ch
 A cybersecurity feed for application security and incident response teams.  
 We promote technical materials to step up your learning curve. 👉 https://t.me/secopslab
 
-**My latest discussion**
+**Current discussion**
 
-- https://github.com/projectdiscovery/nuclei-templates/discussions/670#discussioncomment-227501
+- https://github.com/projectdiscovery/nuclei-templates/discussions/693
 
 **Keep in touch**
 

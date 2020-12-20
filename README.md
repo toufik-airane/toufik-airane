@@ -20,5 +20,5 @@ We promote technical materials to step up your learning curve. 👉 https://t.me
 **Keep in touch**
 
 LinkedIn - https://www.linkedin.com/in/toufik-airane/  
-Medium - https://medium.com/@toufik.airane  
+Medium - https://secopslab.medium.com/  
 Email - hello (at) chaoticgood (dot) engineer

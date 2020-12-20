@@ -12,7 +12,7 @@ Feel free to book me for a chat - https://calendly.com/toufik-airane/one-hour-ch
 
 A cybersecurity feed for application security and incident response teams.  
 We promote technical materials to step up your learning curve.  
-👉 👉 👉 https://t.me/secopslab 👈 👈 👈
+👉 👉 👉 https://t.me/handsonappsec 👈 👈 👈
 
 **Current discussion**
 
@@ -21,5 +21,5 @@ We promote technical materials to step up your learning curve.
 **Keep in touch**
 
 LinkedIn - https://www.linkedin.com/in/toufik-airane/  
-Medium - https://chaoticgood.medium.com/  
+Medium - https://handsonappsec.medium.com/  
 Email - hello (at) chaoticgood (dot) engineer

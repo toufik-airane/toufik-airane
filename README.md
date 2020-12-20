@@ -8,11 +8,10 @@ My favorite playgrounds are growing tech companies investing to secure themselve
 
 Feel free to book me for a chat - https://calendly.com/toufik-airane/one-hour-chat
 
-**Join my Telegram group**
+**Join my Telegram group 👉 https://t.me/secopslab**
 
 A cybersecurity feed for application security and incident response teams.  
 We promote technical materials to step up your learning curve.  
-👉 https://t.me/secopslab
 
 **My latest discussion**
 

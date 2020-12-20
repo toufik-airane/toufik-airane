@@ -2,7 +2,7 @@
 
 People define me as an ethical hacker with software engineering and DevOps skills.  
 I define myself as a chaotic good engineer committed to building cybersecurity for a better society.  
-My favorite playgrounds are growing tech companies investing to secure themselves.
+My favourite playgrounds are growing tech companies investing to secure themselves.
 
 **Wanna talk about cyber?**
 

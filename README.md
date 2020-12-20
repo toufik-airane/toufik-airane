@@ -15,7 +15,7 @@ We promote technical materials to step up your learning curve. 👉 https://t.me
 
 **My latest discussion**
 
-- https://github.com/projectdiscovery/nuclei-templates/discussions/670
+- https://github.com/projectdiscovery/nuclei-templates/discussions/670#discussioncomment-227501
 
 **Keep in touch**
 

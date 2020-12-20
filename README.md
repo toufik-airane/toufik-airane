@@ -6,13 +6,12 @@ My favourite playgrounds are growing tech companies investing to secure themselv
 
 **Wanna talk about cyber?**
 
-Feel free to book me for a chat - https://calendly.com/toufik-airane/one-hour-chat
+Feel free to book me for a chat - https://calendly.com/toufik-airane/one-hour-chat.
 
 **Join my Telegram group**
 
 A cybersecurity feed for application security and incident response teams.  
-We promote technical materials to step up your learning curve.  
-👉 👉 👉 https://t.me/handsonappsec 👈 👈 👈
+We promote technical materials to step up your learning curve - https://t.me/handsonappsec.
 
 **Current discussion**
 

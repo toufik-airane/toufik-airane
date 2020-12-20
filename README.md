@@ -4,7 +4,7 @@ People define me as an ethical hacker with software engineering and DevOps skill
 I define myself as a chaotic good engineer committed to building cybersecurity for a better society.  
 My favorite playgrounds are growing tech companies investing to secure themselves.
 
-**Wanna talk about hacking and cyber?**
+**Wanna talk about cyber?**
 
 Feel free to book me for a chat - https://calendly.com/toufik-airane/one-hour-chat
 

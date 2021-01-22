@@ -6,11 +6,11 @@ My favourite playgrounds are growing tech companies investing to secure themselv
 
 **Feel free to book me to chat about Tech and Cyber**
 
-- https://calendly.com/toufik-airane/one-hour-chat.
+- https://calendly.com/toufik-airane/one-hour-chat
 
 **Join the Hands-On Application Security Telegram group**
 
-- https://t.me/handsonappsec.
+- https://t.me/handsonappsec
 
 **Follow my discussions on GitHub**
 

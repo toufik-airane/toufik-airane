@@ -14,9 +14,9 @@ I tend to define myself as a chaotic good engineer committed to building cyberse
 
 - https://t.me/handsonappsec
 
-**Reach me for a chit-chat on Technology and Cybersecurity**
+**Reach me for chit-chat on Technology and Cybersecurity**
 
-- https://calendly.com/toufik-airane/one-hour-chat
+- https://calendly.com/toufik-airane/chit-chat
 
 **And let's keep in touch!**
 

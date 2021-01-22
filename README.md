@@ -4,22 +4,19 @@ People define me as an ethical hacker with software engineering and DevOps skill
 I define myself as a chaotic good engineer committed to building cybersecurity for a better society.  
 My favourite playgrounds are growing tech companies investing to secure themselves.
 
-**Wanna talk about cyber?**
+**Feel free to book me to chat about Tech and Cyber**
 
-Feel free to book me for a chat
 - https://calendly.com/toufik-airane/one-hour-chat.
 
-**Join my Telegram group**
+**Join the Hands-On Application Security Telegram group**
 
-Hands-On Application Security is a Telegram group who share and promote technical materials to sustain security team education.
 - https://t.me/handsonappsec.
 
-**Current discussion**
+**Follow my discussions on GitHub**
 
-Call To Action For A Computable Bug Bounty Report Era
 - https://github.com/projectdiscovery/nuclei-templates/discussions/693
 
-**Keep in touch**
+**And let's keep in touch!**
 
 - LinkedIn - https://www.linkedin.com/in/toufik-airane/
 - Twitter - https://www.twitter.com/handsonappsec/

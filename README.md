@@ -19,6 +19,7 @@ We promote technical materials to step up your learning curve - https://t.me/han
 
 **Keep in touch**
 
-LinkedIn - https://www.linkedin.com/in/toufik-airane/  
-Medium - https://handsonappsec.medium.com/  
+LinkedIn - https://www.linkedin.com/in/toufik-airane/
+Twitter - https://www.twitter.com/handsonappsec/
+Medium - https://handsonappsec.medium.com/
 Email - hello@chaoticgood.engineer

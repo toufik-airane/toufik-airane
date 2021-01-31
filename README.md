@@ -1,20 +1,20 @@
 **About me**
 
-I tend to define myself as a chaotic good engineer committed to building cybersecurity for a better society.
+I am a chaotic good engineer committed to building cybersecurity for a better society.
 
-**So follow my discussions on GitHub**
+**Check out my favourite contributions**
 
 - https://github.com/projectdiscovery/nuclei-templates/discussions/693
 
-**Join the Hands-On Application Security Telegram group**
+**Join the *Hands-On Application Security* Telegram group**
 
 - https://t.me/handsonappsec
 
-**Reach me for chit-chat on Technology and Cybersecurity**
+**Reach me for a chit-chat**
 
 - https://calendly.com/toufik-airane/chit-chat
 
-**And let's keep in touch!**
+**Keep in touch**
 
 - LinkedIn - https://www.linkedin.com/in/toufik-airane/
 - Twitter - https://www.twitter.com/handsonappsec/

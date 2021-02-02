@@ -8,7 +8,7 @@ I am a chaotic good engineer committed to building cybersecurity for a better so
 
 **Join the *Hands-On Application Security* Telegram group**
 
-- https://t.me/handsonappsec
+- https://t.me/seriousappsec
 
 **Reach me for a chit-chat**
 
@@ -17,8 +17,8 @@ I am a chaotic good engineer committed to building cybersecurity for a better so
 **Keep in touch**
 
 - LinkedIn - https://www.linkedin.com/in/toufik-airane/
-- Twitter - https://www.twitter.com/handsonappsec/
-- Medium - https://handsonappsec.medium.com/
+- Twitter - https://www.twitter.com/seriousappsec/
+- Medium - https://seriousappsec.medium.com/
 - Email - hello@chaoticgood.engineer
 
 ---

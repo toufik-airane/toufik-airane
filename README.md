@@ -1,20 +1,4 @@
-**About me**
-
-I am a chaotic good engineer committed to building cybersecurity for a better society.
-
-**Check out my favourite contributions**
-
-- https://github.com/projectdiscovery/nuclei-templates/discussions/693
-
-**Join the *Hands-On Application Security* Telegram group**
-
-- https://t.me/handsonappsec
-
-**Reach me for a chit-chat**
-
-- https://calendly.com/toufik-airane/chit-chat
-
-**Keep in touch**
+**Contact**
 
 - LinkedIn: https://www.linkedin.com/in/toufik-airane/
 - Discord: Toufik Airane#1048

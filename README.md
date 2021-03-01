@@ -17,8 +17,6 @@ I am a chaotic good engineer committed to building cybersecurity for a better so
 **Keep in touch**
 
 - LinkedIn: https://www.linkedin.com/in/toufik-airane/
-- Twitter: https://www.twitter.com/handsonappsec/
-- Medium: https://handsonappsec.medium.com/
 - Discord: Toufik Airane#1048
 - Email: hello@chaoticgood.engineer
 

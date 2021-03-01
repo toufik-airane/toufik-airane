@@ -1,8 +1,7 @@
 **Contact**
-
-- LinkedIn: https://www.linkedin.com/in/toufik-airane/
 - Discord: Toufik Airane#1048
 - Email: hello@chaoticgood.engineer
+- LinkedIn: https://www.linkedin.com/in/toufik-airane/
 
 ---
 
